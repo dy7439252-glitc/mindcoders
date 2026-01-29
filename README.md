@@ -1,3 +1,3 @@
 # mindcoders
-This is my first repository <br> author dharendra yadav
+This is my first repository <br> author dharmendra yadav
                         
